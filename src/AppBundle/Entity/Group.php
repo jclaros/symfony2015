@@ -36,7 +36,6 @@ class Group extends BaseGroup{
      */
     protected $group_roles;
     
-    // ...
     /**
      * @ORM\ManyToMany(targetEntity="User", mappedBy="groups")
      **/
