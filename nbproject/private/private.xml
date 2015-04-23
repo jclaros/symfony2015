@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/vendor/doctrine/doctrine-bundle/Resources/config/dbal.xml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/config/routing.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/web/bundles/framework/css/body.css</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/views/Secured/login.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/security.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/vendor/doctrine/doctrine-bundle/Resources/config/orm.xml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/routing.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Controller/WelcomeController.php</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/routing_dev.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/config.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/parameters.yml.dist</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/views/Demo/hello.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/AppKernel.php</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/views/Welcome/index.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/views/layout.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Controller/DemoController.php</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/config_test.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/parameters.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/composer.json</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views/layout.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/web/app_dev.php</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Resources/views/Demo/index.html.twig</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/services.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/config_dev.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/src/Acme/DemoBundle/Controller/SecuredController.php</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/app/config/config_prod.yml</file>
+            <file>file:/Users/jonathan/symfonyClasses/class1/videoclub/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Tests/DependencyInjection/Fixtures/Resources/views/layout.html.twig</file>
+        </group>
+    </open-files>
+</project-private>
